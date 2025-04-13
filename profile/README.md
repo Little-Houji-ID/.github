@@ -12,7 +12,7 @@ We currently support Android 15, with the latest security patches from Google.
 ### Quick Source Initialization ###
 
 ```bash
-repo init -u https://github.com/HorizonV2/manifest.git -b lineage-22.2 --git-lfs
+repo init -u https://github.com/HorizonV2/android.git -b lineage-22.2 --git-lfs
 ```
 
 ```bash
@@ -22,6 +22,22 @@ repo sync -c --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune 
 ```bash
 . build/envsetup.sh
 ```
+
+HorizonDroid Flags:
+```
+# Maintainer username
+HORIZON_MAINTAINER := superxorn
+
+# Face Unlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
+# Gapps flags
+WITH_GMS := true
+WITH_GMS_VARIANT := pico/core
+```
+Generate keys command:
+```
+hk -s
 
 ```bash
 lunch lineage_devicecodename-bp1a-buildtype
