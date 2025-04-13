@@ -2,17 +2,17 @@
 HorizonDroid
 ===========
 
-![**HorizonBanner**](../horizon.svg)
+![**HorizonBanner**](https://github.com/HorizonV2/.github/blob/main/horizon.svg)
 
 Welcome to HorizonDroid!
 
-HorizonDroid is based on AOSP and PixelOS, allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
+HorizonDroid is based on LineageOS, allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
 We currently support Android 15, with the latest security patches from Google.
 
 ### Quick Source Initialization ###
 
 ```bash
-repo init -u https://github.com/HorizonDroidLab/manifest.git -b fifteen --git-lfs
+repo init -u https://github.com/HorizonV2/manifest.git -b lineage-22.2 --git-lfs
 ```
 
 ```bash
@@ -24,7 +24,7 @@ repo sync -c --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune 
 ```
 
 ```bash
-lunch horizon_devicecodename-bp1a-buildtype
+lunch lineage_devicecodename-bp1a-buildtype
 ```
 
 ```bash
@@ -39,7 +39,7 @@ mka horizon
 * [**Telegram Group**](https://t.me/HorizonDroidChat)
 
 -----------------------------------------------------------------------------
-![CreditsImg](../credit.svg)
+![CreditsImg](https://github.com/HorizonV2/.github/blob/main/credit.svg)
  Special thanks to All ROM Developers in this community
  * [**PixelOS**](https://github.com/PixelOS-AOSP)
  * [**CLO**](https://git.codelinaro.org)
