@@ -38,8 +38,9 @@ WITH_GMS_VARIANT := pico/core
 Generate keys command:
 ```
 hk -s
+```
 
-```bash
+``` bash
 lunch lineage_devicecodename-bp1a-buildtype
 ```
 
