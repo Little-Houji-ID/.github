@@ -18,11 +18,6 @@ repo init -u https://github.com/HorizonV2/android.git -b lineage-22.2 --git-lfs
 ```bash
 repo sync -c --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune --retry-fetches=5 -j10
 ```
-
-```bash
-. build/envsetup.sh
-```
-
 HorizonDroid Flags:
 ```
 # Maintainer username
@@ -39,9 +34,14 @@ Generate keys command:
 ```
 hk -s
 ```
+Setup environment:
 
 ``` bash
 lunch lineage_devicecodename-bp1a-buildtype
+```
+
+```bash
+. build/envsetup.sh
 ```
 
 ```bash
