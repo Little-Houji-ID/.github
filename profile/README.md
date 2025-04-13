@@ -58,9 +58,9 @@ mka horizon
 -----------------------------------------------------------------------------
 ![CreditsImg](https://github.com/HorizonV2/.github/blob/main/credit.svg)
  Special thanks to All ROM Developers in this community
- * [**PixelOS**](https://github.com/PixelOS-AOSP)
- * [**CLO**](https://git.codelinaro.org)
- * [**AOSP**](https://android.googlesource.com)
  * [**LineageOS**](https://github.com/LineageOS)
-
+ * [**PixelOS**](https://github.com/PixelOS-AOSP)
+ * [**CrDroid**](https://github.com/crdroidandroid)
+ * [**EvoX**](https://github.com/evolution-x)
+ * [**AxionAOSP**](https://github.com/AxionAOSP)
 -----------------------------------------------------------------------------
