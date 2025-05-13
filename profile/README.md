@@ -19,10 +19,11 @@ HorizonLabs:
 
 **HorizonLabs** is the feature centre of **HorizonDroidLab**, this tab contains all the features / tweaks which are added to HorizonDroidLab.
 Inside **HorizonLabs**, you can find all your needed features.
+**HorizonDroid Team**
 
-Credits:
+Count Download sourceforge:
 -------
- **HorizonDroid Team**
+<a href="https://sourceforge.net/projects/horizondroid/files/latest/download"><img alt="Download horizondroid" src="https://img.shields.io/sourceforge/dm/horizondroid.svg" ></a>
 
 ### Quick Source Initialization ###
 
