@@ -24,6 +24,9 @@ Inside **HorizonLabs**, you can find all your needed features.
 Count Download sourceforge:
 -------
 <a href="https://sourceforge.net/projects/horizondroid/files/latest/download"><img alt="Download horizondroid" src="https://img.shields.io/sourceforge/dm/horizondroid.svg" ></a>
+<a href="https://sourceforge.net/projects/horizondroid/files/latest/download"><img alt="Download horizondroid" src="https://img.shields.io/sourceforge/dw/horizondroid.svg" ></a>
+<a href="https://sourceforge.net/projects/horizondroid/files/latest/download"><img alt="Download horizondroid" src="https://img.shields.io/sourceforge/dd/horizondroid.svg" ></a>
+<a href="https://sourceforge.net/projects/horizondroid/files/latest/download"><img alt="Download horizondroid" src="https://img.shields.io/sourceforge/dt/horizondroid.svg" ></a>
 
 ### Quick Source Initialization ###
 
