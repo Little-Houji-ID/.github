@@ -9,8 +9,6 @@ Welcome to HorizonDroid!
 HorizonDroid is based on LineageOS, allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
 We currently support Android 15, with the latest security patches from Google.
 
-<a href="https://sourceforge.net/projects/horizondroid/files/latest/download"><img alt="Download horizondroid" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
-
 HorizonLabs:
 ------------------------
 <p align="center">
