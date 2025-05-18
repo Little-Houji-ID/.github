@@ -66,7 +66,7 @@ lunch lineage_devicecodename-bp1a-buildtype
 ```
 
 ```bash
-mka horizon
+mka horizon -j$(nproc --all)
 ```
 
 [More build information](https://github.com/HorizonDroidLab/manifest)
