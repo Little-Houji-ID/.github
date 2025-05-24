@@ -51,10 +51,6 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 WITH_GMS := true
 WITH_GMS_VARIANT := pico/core
 ```
-Generate keys command:
-```
-hk -s
-```
 Setup environment:
 
 ``` bash
