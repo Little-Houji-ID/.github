@@ -48,8 +48,15 @@ HORIZON_MAINTAINER := superxorn
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # Gapps flags
-WITH_GMS := true
+WITH_GMS := true/false
 WITH_GMS_VARIANT := pico/core
+
+# Other flags
+TARGET_INCLUDE_MATLOG := true/false
+TARGET_INCLUDE_ACCORD := true/false
+TARGET_PREBUILT_BCR := true/false
+PRODUCT_NO_CAMERA := true/false
+
 ```
 Setup environment:
 
