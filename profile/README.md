@@ -9,10 +9,6 @@ Welcome to HorizonDroid!
 HorizonDroid is based on LineageOS, allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
 We currently support Android 15, with the latest security patches from Google.
 
-Buymeacoffee:
-------------------------
-<a href="https://www.buymeacoffee.com/ryzenforce009"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=ryzenforce009&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
 HorizonLabs:
 ------------------------
 <p align="center">
