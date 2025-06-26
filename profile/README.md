@@ -74,6 +74,7 @@ mka horizon -j$(nproc --all)
 
 * [**Telegram Channel**](https://t.me/horizondroid)
 * [**Telegram Group**](https://t.me/HorizonDroidChat)
+* [**Website**](https://horizonv2.github.io/HorizonDroid.github.io/)
 
 -----------------------------------------------------------------------------
 ![CreditsImg](https://github.com/HorizonV2/.github/blob/main/credit.svg)
